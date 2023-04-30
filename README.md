@@ -10,7 +10,7 @@ npm install
 ```
 npm run serve
 ```
-###Satrt mock
+### Start mock
 ~~~
 json-server --watch db.json or npx json-server --watch db.json for first time 
  http://localhost:3000/products
